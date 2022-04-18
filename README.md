@@ -13,7 +13,7 @@ Built in <b>React.js</b>
 
 
 ## Setup
-  ##### After cd'ing into the project directory, To install the dependencies, simply write
+  ##### After cd'ing into the project directory, to install the dependencies, simply write
 ```bash
 npm install
 ```
