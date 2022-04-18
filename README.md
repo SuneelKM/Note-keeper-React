@@ -1,5 +1,5 @@
 
-<!-- <img src="https://github.com/screenshots/1.PNG?raw=false" width="100%"> -->
+<img src="https://github.com/SuneelKM/Note-keeper-React/blob/master/screenshot/notes.png">
 
 # NOTES KEEPER
 
