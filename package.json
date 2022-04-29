@@ -1,6 +1,6 @@
 {
   "name": "semi-final-react-v1",
-  "homepage": "https://SuneelKM.github.io/Note-keeper-React",
+  "proxy":"http://127.0.0.1:5000",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
