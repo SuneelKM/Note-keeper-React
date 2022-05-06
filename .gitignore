@@ -1,5 +1,6 @@
 
 ### react ###
+.idea
 .DS_*
 *.log
 logs
