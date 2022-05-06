@@ -5,7 +5,8 @@ import Note from "./Note";
 import CreateArea from "./CreateArea";
 
 function App() {
-  const [notes, setNotes] = useState([]);
+  const sampleNote = [{title: 'Note Title', content: 'Your notes here.'}]
+  const [notes, setNotes] = useState(sampleNote);
 
   function addNote(newNote) {
     setNotes(prevNotes => {
