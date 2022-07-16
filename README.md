@@ -15,12 +15,14 @@ Built in <b>React.js</b>
 
 
 ## Setup
-  ##### After cd'ing into the project directory, to install the dependencies, simply write
+
+  ##### 1. Download or clone the repo
+  ##### 2. After cd'ing into the project directory, to install the dependencies, simply write
 ```bash
 npm install
 ```
 
-  ##### To run the app, simply write
+  ##### 3. To run the app, simply write
 ```bash
 npm start
 ```
